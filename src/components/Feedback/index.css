@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+  margin-top: 0px;
+}
+.main-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.white-card {
+  height: 70vh;
+  width: 70vw;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.un-orderedlist {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.emoji-button {
+  border: 0px;
+  background-color: transparent;
+}
+.emoji {
+  height: 70px;
+  width: 70px;
+  margin: 40px;
+  margin-bottom: 4px;
+}
+
+.emoji-container {
+  text-align: center;
+}
+.para {
+  font-size: 20px;
+  padding-top: 0px;
+}
+
+.white-card2 {
+  height: 70vh;
+  width: 70vw;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
+.love-image {
+  height: 90px;
+  width: 90px;
+  margin-bottom: 20px;
+}
+
+.thankyoutext {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.thankyoupara {
+  font-size: 22px;
+  margin-bottom: 20px;
+  text-align: center;
+}
